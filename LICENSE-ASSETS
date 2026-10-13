@@ -1,0 +1,41 @@
+Adventure Artwork License
+
+Copyright Gordon Goodrum — oakframe.org. All rights reserved except as
+expressly granted below.
+
+Scope
+This license applies to the Adventure tileset (adventure.png),
+its generated downsampled version (adventure-pixelated.png),
+and modifications, conversions, and copies of that artwork. It does not
+apply to the project's code, which is licensed separately under MIT.
+
+Permitted use
+You may use, copy, and edit the artwork free of charge in personal or
+commercial games, applications, websites, and other creative works. You may
+sell those works with the artwork incorporated into them. You may distribute
+the complete atlas, including an edited or downsampled complete atlas, as
+part of such a work or its source repository, with this license and credit.
+
+You may select, crop, or render individual tiles as needed inside your work;
+this technical use does not authorize distribution of those tiles as assets.
+
+Restrictions
+You may not sell or distribute the artwork as a standalone product or asset
+resource. You may not split it into individual icons or tiles for separate
+distribution, repackage it as an asset pack, or sell individual icons, tiles,
+or collections extracted from it. These restrictions also apply to edited,
+downsampled, converted, and otherwise derived versions, whether distributed
+free of charge or for payment. Permission to sell a game or other work does
+not grant permission to sell the artwork itself.
+
+Attribution
+Include the credit "Adventure artwork by Gordon Goodrum"
+in your work's credits or accompanying documentation. Preserve this license
+and existing copyright and attribution notices in distributed atlas files
+and source copies.
+
+No warranty
+THE ARTWORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY
+CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM USE OF THE ARTWORK.
